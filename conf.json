@@ -21,9 +21,7 @@
   },
   "backOffice": {
     "menu" : [
-      {
-        "label" : "MENU.PUBLISH",
-        "subMenu" : [
+ 
           {
             "label" : "MENU.VIDEOS",
             "path" : "/admin/publish/be/videos"
@@ -36,8 +34,6 @@
             "label" : "MENU.PROPERTIES",
             "path" : "/admin/publish/be/properties"
           }
-        ]
-      }
     ],
     "scriptFiles" : [
       "/publish/admin/js/PublishApp.js",
@@ -46,7 +42,9 @@
       "/publish/admin/js/PropertiesController.js",
       "/publish/admin/js/PublishService.js"
     ],
-    "cssFiles" : []
+    "cssFiles" : [
+      "/publish/admin/css/publish.css"
+    ]
   },
   "custom" : {
     "scriptFiles" : [

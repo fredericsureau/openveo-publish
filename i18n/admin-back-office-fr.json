@@ -1,9 +1,9 @@
 {
   "MENU" : {
     "PUBLISH" : "Publish",
-    "VIDEOS" : "Vidéos",
+    "VIDEOS" : "Catalogue",
     "WATCHER" : "Watcher",
-    "PROPERTIES" : "Propriétés personnalisées"
+    "PROPERTIES" : "Propriétés"
   },
   "VIDEOS" : {
     "PAGE_TITLE" : "Publish - Vidéos",

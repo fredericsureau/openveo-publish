@@ -1,0 +1,17 @@
+/* List of videos and custom properties */
+.pu-line { border-radius: 3px; display:table; width:100%;}
+.pu-line a{ color: #000; }
+.pu-line.even{background-color:  #ebebeb;}
+.pu-line:first-child{ border-top: 1px solid #ddd;}
+.pu-line > div{ height: 40px; line-height: 40px; border:1px solid #ddd; border-top:0 none;}
+.pu-line > div:first-child{ cursor: pointer; overflow: hidden;}
+.pu-line .glyphicon{ cursor: pointer; }
+.pu-line .actions { display: inline; }
+
+/* List details */
+.pu-detail { line-height: initial; padding-bottom: 10px; width:100%; float:left; border: 1px solid #ddd; border-top:0 none;}
+.pu-detail ul{ list-style: none; padding-left: 35px; }
+.pu-detail li{ line-height: 22px; }
+.pu-detail .btn-group{ margin-left: 35px; }
+.pu-detail .label{ margin-right: 5px; }
+.pu-detail input{ margin: 1px 0; }

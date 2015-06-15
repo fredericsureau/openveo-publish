@@ -1,9 +1,13 @@
 {
   "MENU" : {
+<<<<<<< Updated upstream
     "PUBLISH" : "Publish",
     "VIDEOS" : "Videos",
+=======
+    "VIDEOS" : "Catalog",
+>>>>>>> Stashed changes
     "WATCHER" : "Watcher",
-    "PROPERTIES" : "Custom properties"
+    "PROPERTIES" : "Properties"
   },
   "VIDEOS" : {
     "PAGE_TITLE" : "Publish - Videos",
